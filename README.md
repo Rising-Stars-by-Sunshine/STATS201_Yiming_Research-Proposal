@@ -1,6 +1,7 @@
 # STATS201_Autumn2023_Week2
 
 ![Description of Image](figs/YimingYuan1.png)
+
 Yiming Yuan, an undergraduate at Duke Kunshan University, majored in Applied Mathematics. I am interested in mathematics, especially the probability and statistics.
 
 # Resume
