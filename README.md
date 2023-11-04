@@ -1,10 +1,12 @@
 # STATS201_Autumn2023_Week2
 
 ![Description of Image](figs/YimingYuan.png)
-# Hello World -Yiwei
-# Hi
-# !!
-## Heading 2
+
+# Resume
+## Yiming Yuan
+Class of 2025
+
+
 
 Welcome to our class
 
