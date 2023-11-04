@@ -1,6 +1,6 @@
 # STATS201_Autumn2023_Week2
 
-![Description of Image](figs/YimingYuan.png)
+![Description of Image](figs/YimingYuan1.png)
 
 # Resume
 ## Yiming Yuan
