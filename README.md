@@ -8,6 +8,7 @@ Yiming Yuan, an undergraduate at Duke Kunshan University, majored in Applied Mat
 ## Yiming Yuan
 Email address: yy345@duke.edu
 ## Education
+---
 Duke Kunshan University, Duke University (Class of 2025)
 B.S. in Applied Math and Computational Sciences; Math Track 
 
