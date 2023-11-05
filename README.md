@@ -39,3 +39,5 @@ Co-founder /Operation Manager /Builder	Kunshan
 
 Get to know me!
 
+
+### Check readme files respectively under "Code" and "Data" files, get to know my data and querying process.
