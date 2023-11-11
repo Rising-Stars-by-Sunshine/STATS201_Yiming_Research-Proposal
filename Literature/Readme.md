@@ -34,7 +34,7 @@ The study's findings offer several pivotal takeaways:
 - Environmental Impacts: From an ecological perspective, a declining GEPU index signifies a diminishing direct influence of policy uncertainties on sustainable development. However, the study cautions that indirect environmental repercussions due to these uncertainties might persist over a more extended period.
 - Policy and Research Implications: These predictions can guide subsequent policy formulation and can be instrumental for future research, offering a foundational reference point for investigations into the broader socio-economic and environmental ramifications of the pandemic.
 
-![Image](PredictionEco.png)
+![image](PredictionEco.png)
 
 ## 1.2
 
@@ -74,7 +74,7 @@ Furthermore, the practicality of the predictive model is also reflected in the f
 - Investment guidance: Investors in the energy sector can make more informed decisions on future energy demands and investments in renewable energy projects based on the predictions.
 - Education and awareness: Increase public awareness of the importance of renewable energy and how it affects the long-term sustainability of the economy and the environment.
 
-![Image](SustainableEnergy.png)
+![image](SustainableEnergy.png)
 
 ### Reference
 Hu, Hui, Shuaizhou Xiong, Yi Chen, Ye Lin, Shuliang Zhao, Kun Qian, and Michael De Domenici C. "Prediction of Post-COVID-19 Economic and Environmental Policy and Recovery Based on Recurrent Neural Network and Long Short-Term Memory Network." Environmental Research Communications 4, no. 11 (11, 2022): 115001. Doi:https://doi.org/10.1088/2515-7620/ac9bd8. https://login.proxy.lib.duke.edu/login?url=https://www.proquest.com/scholarly-journals/prediction-post-covid-19-economic-environmental/docview/2731784886/se-2
