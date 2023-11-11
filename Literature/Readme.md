@@ -34,7 +34,7 @@ The study's findings offer several pivotal takeaways:
 - Environmental Impacts: From an ecological perspective, a declining GEPU index signifies a diminishing direct influence of policy uncertainties on sustainable development. However, the study cautions that indirect environmental repercussions due to these uncertainties might persist over a more extended period.
 - Policy and Research Implications: These predictions can guide subsequent policy formulation and can be instrumental for future research, offering a foundational reference point for investigations into the broader socio-economic and environmental ramifications of the pandemic.
 
-![Description of Image](Literature/Prediction.png)
+![Description of Image](Literature/PredictionEco.png)
 
 ## 1.2
 
