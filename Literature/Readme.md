@@ -19,11 +19,11 @@ Since RNN and LSTM models have strong sequence learning and prediction abilities
 ### Results:
 When look_back = 3 and hiden_layer = 3, the RNN model performs best. In this situation, the results show that GEPU will rise somewhat before leveling out. It shows that two years after the outbreak, the CKP epidemic's influence on GEPU is progressively leveling down, which is beneficial to economic recovery. This is due to computers' limited computational power and time. It is realistic to expect improved learning outcomes if the Epoch continues to expand at a reasonable rate. 
 
-![image](Literature/part1_1.png)
+![image](figs/part1_1.png)
 Fig. 1 look_back = 3, hiden_layer = 3 (Hu et al., 2022)
 
 When look_back and hiden_layer  are respectively 3 and 6, or 6 and 3, the result of LSTM is worse than that of the RNN. When hiden_layer = 6, the LSTM shows obvious overfitting. It indicates that the fitting curve on the training set is more complex than that on the real dataset. 
-![Description of Image](Literature/part1_2.png)
+![Description of Image](figs/part1_2.png)
 Fig. 2 look_back = 3, hiden_layer = 6 (Hu et al., 2022)
 
 Limitations: Neural networks are black-box models, such as LSTM and RNN. In this case, it is a hard task to identify the specific paths that affect changes in economic and environmental policy uncertainty in this paper. 
