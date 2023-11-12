@@ -7,21 +7,27 @@ This  repository is for Problem Set 1 Pioneer Interdisciplinary Research on Mach
 ---
 
 ## Content
-### 1. Literature
-  #### 1.1 Readme.md
+```
+1. Literature
+  1.1 Readme.md
     1.1.1 literature review
     1.1.2 a research idea draft
    
-### 2. Data
-  #### 2.1 Readme.md
-  #### 2.2 sample data
+2. Data
+  2.1 Readme.md
+    2.1.1 data description and dictionary
+    2.1.2 a flowchart
+  2.2 sample data
 
-### 3. Code
-  #### 3.1 Readme.md 
-  #### 3.2 sample code
+3. Code
+  3.1 Readme.md
+    3.1.1 data query process
+    3.1.2 sample code
+    3.1.3 pseudo-code
+    3.1.4 a flowchart
   
-### 4. Readme.md
-
+4. Readme.md
+```
 ---
 
 
@@ -54,7 +60,4 @@ Co-founder /Operation Manager /Builder	Kunshan
 -Negotiated financial support with Inlab, Dii Program, and professors, finally achieved up to a total of 250,000 RMB support
 -Built two robots with running, suction, and ejection function, which has finished runner-up in the VEX Asian Championships
 
-Get to know me!
 
-
-### Check readme files respectively under "Code" and "Data" files, get to know my data and querying process.
