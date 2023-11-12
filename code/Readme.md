@@ -6,7 +6,7 @@
   Additionally, there is also a data query code, which is used for scraping data on the EIA website, including gas consumption and prices in California, USA. As for the process, I first asked ChatGPT to write a general query code for me. And then, I made up the specific headers and API URL; dealt with the OSError, which refers to the proxy problem. The code and pseudo-code are as shown below.
 
 
-#### Code
+### Code
 ```
 pip install requests
 import requests
@@ -38,7 +38,7 @@ else:
 
 ```
 
-####  pseudo-code
+###  pseudo-code
 ```
 DEFINE url AS "https://api.eia.gov/v2/natural-gas/sum/lsum/data/"
 
@@ -62,3 +62,5 @@ IF response status code IS 200 THEN
 ELSE
     PRINT "Failed to retrieve data: " AND response status code
 ```
+
+
