@@ -63,4 +63,5 @@ ELSE
     PRINT "Failed to retrieve data: " AND response status code
 ```
 
-
+### flowchart
+![image](DataQuery.png)
