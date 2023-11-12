@@ -15,9 +15,10 @@ This  repository is for Problem Set 1 Pioneer Interdisciplinary Research on Mach
    
 2. Data
   2.1 Readme.md
-    2.1.1 data description and dictionary 
+    2.1.1 data description
     2.1.2 a flowchart
-  2.2 sample data
+  2.2 data dictionary 
+  2.3 sample data
 
 3. Code
   3.1 Readme.md
