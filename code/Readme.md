@@ -1,10 +1,10 @@
 # Data Querying
-  Briefly speaking, find a interesting dataset, check the feasibility of research, and then download the dataset.
-  
-1.	Access: Get into a Kaggle Dataset: https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy 
-2.	Check intention: Check what the dataset involves(columns), and what the dataset is used for. See if I am interested in analyzing them and if I do gain some inspiration from them.
-3.	Choose data: This comprehensive dataset has 21 columns, check if I need them all, or only part of them. Click on those columns I want.
-4.	Download: On the Data site, click on the “Download” button, and then I get the csv file.
+  The main part of the data was directly downloaded from
+1.	 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy, which is an open data source sorted by Ansh Tanwar. 
+2.	 New data for 2021-2022 from the World Bank https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators
+
+  Additionally, there is also a data query code, which is used for scraping data on the EIA website, including gas consumption and prices in California, USA. As for the process, I first asked ChatGPT to write a general query code for me. And then, I made up the specific headers and API URL; dealt with the OSError, which refers to the proxy problem. The code and pseudo-code are as shown below.
+
 
 #### Code
 ```
