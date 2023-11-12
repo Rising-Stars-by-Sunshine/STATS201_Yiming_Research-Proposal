@@ -3,3 +3,4 @@ This dataset mainly queried from Kaggle (https://www.kaggle.com/datasets/anshtan
 
 Considering the completeness and real-time nature of the data, I downloaded new data for 2021-2022 from the World Bank (https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators).
 
+I also wrote a code to scrape data for the EIA website, including gas consumption and prices in California, USA, because the data was downloaded directly from the website. You'll see it in the code.
