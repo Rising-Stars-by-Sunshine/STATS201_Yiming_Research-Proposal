@@ -1,4 +1,4 @@
-# STATS201_Autumn2023_Week2
+# STATS201_Autumn2023_PS1
 
 ![Description of Image](figs/YimingYuan1.png)
 
