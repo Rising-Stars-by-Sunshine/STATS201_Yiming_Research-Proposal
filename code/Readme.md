@@ -36,3 +36,29 @@ if response.status_code == 200:
 else:
     print(f"Failed to retrieve data: {response.status_code}")
 
+```
+
+####  pseudo-code
+```
+DEFINE url AS "https://api.eia.gov/v2/natural-gas/sum/lsum/data/"
+
+DEFINE headers AS MAP OF:
+    'X-Params': STRINGIFIED JSON OF:
+        "frequency": "annual"
+        "data": LIST CONTAINING "value"
+        "facets": MAP OF "series": LIST CONTAINING "N3010CA2", "N3010CA3"
+        "start": "2013"
+        "end": "2023"
+        "sort": LIST CONTAINING MAP OF "column": "period", "direction": "desc"
+        "offset": 0
+        "length": 5000
+
+SEND GET REQUEST to url WITH headers
+STORE RESPONSE IN response
+
+IF response status code IS 200 THEN
+    PARSE response content AS JSON
+    PRINT parsed data
+ELSE
+    PRINT "Failed to retrieve data: " AND response status code
+```
