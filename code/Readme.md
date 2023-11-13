@@ -67,6 +67,8 @@ ELSE
 ![image](DataQuery.png)
 
 
+### Potential application
+
 What's more,
 
 I would like to attach a sample crawler code written by me here. Potentially, it might be used to check citizens' feelings of sustainable energy, which are also an important factor for policy-makers and investors.
