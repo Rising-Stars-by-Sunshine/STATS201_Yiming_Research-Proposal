@@ -40,7 +40,7 @@ The study's findings offer several pivotal takeaways:
 
 ### Background/Motivation
 
-Three-quarters of global emissions come from the combustion of fossil fuels. Local air pollution caused by fossil energy is also one of the reasons for at least 5 million premature deaths each year (Wen et al., 2021). With the growing global demand for renewable energy, understanding the main factors affecting energy consumption becomes crucial. The proliferation of renewable energy is essential for achieving climate targets, reducing dependence on fossil fuels, and promoting sustainable economic development. This study aims to analyze the key factors affecting energy consumption and predict future consumption trends to provide data support for policy-making.
+Three-quarters of global emissions come from the combustion of fossil fuels. Local air pollution caused by fossil energy is also one of the reasons for at least 5 million premature deaths each year (Wen et al., 2021). With the growing global demand for renewable energy, understanding the main factors affecting energy consumption becomes crucial. The proliferation of renewable energy is essential for achieving climate targets, reducing dependence on fossil fuels, and promoting sustainable economic development. This study aims to analyze the key factors affecting energy consumption and predict future consumption trends to provide data support for policy-making or investment decision.
 
 ### Research Questions
 
