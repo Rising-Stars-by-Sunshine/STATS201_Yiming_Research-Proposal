@@ -65,3 +65,67 @@ ELSE
 
 ### flowchart
 ![image](DataQuery.png)
+
+
+What's more,
+
+I would like to attach a sample crawler code written by me here. Potentially, it might be used to check citizens' feelings of sustainable energy, which are also an important factor for policy-makers and investors.
+```
+import os
+import re
+import requests
+import pandas as pd
+import datetime
+from jsonpath import jsonpath
+
+headers = { ... }  
+
+def trans_time(v_str):
+    # Switch to the standard time: Year-Month-Day Hour:min:second"""
+
+def getLongText(v_id):
+    # Function for fetching long text
+
+def get_weibo_list(v_keyword, v_max_page, v_weibo_file):
+    all_data = []
+    for page in range(1, v_max_page + 1):
+        url = 'https://m.weibo.cn/api/container/getIndex'
+        params = { ... }  
+        response = requests.get(url, headers=headers, params=params)
+        if response.status_code != 200:
+            continue
+        cards = response.json()["data"]["cards"]
+        for card in cards:
+            if 'mblog' in card:
+                mblog = card['mblog']
+                text = re.sub(r'<[^>]+>', '', mblog.get('text', ''))
+                if mblog.get('isLongText'):
+                    text = getLongText(mblog['id'])
+                time_str = trans_time(mblog.get('created_at', ''))
+                all_data.append([
+                    page, mblog['id'], mblog['user']['screen_name'], 
+                    mblog['user'].get('verified', False),
+                    time_str, mblog.get('region_name', '未知地区'), text, 
+                    mblog.get('reposts_count', 0), 
+                    mblog.get('comments_count', 0), 
+                    mblog.get('attitudes_count', 0)
+                ])
+    df = pd.DataFrame(all_data, columns=['页码', '微博id', '微博作者', '是否认证', '发布时间', '发布地点', '微博内容', '转发数', '评论数', '点赞数'])
+    if not df.empty:
+        if os.path.exists(v_weibo_file):
+            df.to_csv(v_weibo_file, mode='a+', index=False, header=False)
+        else:
+            df.to_csv(v_weibo_file, index=False)
+
+if __name__ == '__main__':
+    max_search_page = XXX
+    search_keyword = '可再生能源'
+    v_weibo_file = '微博清单_{}_前{}页.csv'.format(search_keyword, max_search_page)
+    if os.path.exists(v_weibo_file):
+        os.remove(v_weibo_file)
+    get_weibo_list(v_keyword=search_keyword, v_max_page=max_search_page, v_weibo_file=v_weibo_file)
+    df = pd.read_csv(v_weibo_file)
+    df.drop_duplicates(subset=['微博id'], inplace=True)
+    df.to_csv(v_weibo_file, index=False)
+
+```
