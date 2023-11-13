@@ -54,11 +54,11 @@ The research results will be helpful for energy policymakers, energy companies, 
 
 ### Methods
 
-- Use heatmaps to analyze the correlations between various variables in the dataset.
+- Use heatmaps to analyze the correlations between various variables in the dataset(Gu, 2022).
 - Apply PCA to identify and quantify the most influential features.
 - Use ensemble learning methods such as Random Forest and GBM to identify the main influencing factors.
-- Utilize LSTM for time series analysis and prediction of energy consumption trends.
-- Evaluate the accuracy of the model through cross-validation and various performance indicators.
+- Utilize LSTM for time series analysis and prediction of energy consumption trends(Li et al, 2019).
+- Evaluate the accuracy of the model through cross-validation and various performance indicators (Wong and Yeh, 2020).
 
 ### Results
 
@@ -77,9 +77,14 @@ Furthermore, the practicality of the predictive model is also reflected in the f
 ![image](SustainableEnergy.png)
 
 ### Reference
+Gu, Zuguang. Complex heatmap visualization - gu - 2022 - wiley online library, August 1, 2022. https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.43. 
+
 Hu, Hui, Shuaizhou Xiong, Yi Chen, Ye Lin, Shuliang Zhao, Kun Qian, and Michael De Domenici C. "Prediction of Post-COVID-19 Economic and Environmental Policy and Recovery Based on Recurrent Neural Network and Long Short-Term Memory Network." Environmental Research Communications 4, no. 11 (11, 2022): 115001. Doi:https://doi.org/10.1088/2515-7620/ac9bd8. https://login.proxy.lib.duke.edu/login?url=https://www.proquest.com/scholarly-journals/prediction-post-covid-19-economic-environmental/docview/2731784886/se-2
 
 Jun Wen, Chukwuemeka Valentine Okolo, Ifeanyi Celestine Ugwuoke, Kibir Kolani,
 Research on influencing factors of renewable energy, energy efficiency, on technological innovation. Does trade, investment and human capital development matter?,
 Energy Policy, Volume 160, 2022, 112718, ISSN 0301-4215, https://doi.org/10.1016/j.enpol.2021.112718. 
 
+Li, Youru, Zhenfeng Zhu, Deqiang Kong, Hua Han, and Yao Zhao. "EA-LSTM: Evolutionary Attention-Based LSTM for Time Series Prediction." Knowledge-Based Systems 181, (2019): 104785.
+
+Wong, Tzu-Tsung and Po-Yang Yeh. "Reliable Accuracy Estimates from k-Fold Cross Validation." IEEE Transactions on Knowledge and Data Engineering 32, no. 8 (2020): 1586-1594.
