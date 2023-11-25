@@ -13,22 +13,22 @@ This  repository is for Problem Set 1 Pioneer Interdisciplinary Research on Mach
     - [literature review]
     - [a research idea draft]
    
-3. Data
+3. [Data]
    
-  2.1 Readme.md
-    - data description
-    - a flowchart
-  2.2 data dictionary 
-  2.3 sample data
+  2.1 [Readme.md]
+    - [data description]
+    - [a flowchart]
+  2.2 [data dictionary]
+  2.3 [sample data]
 
-3. Code
-  3.1 Readme.md
-    - data query process
-    - sample code
-    - pseudo-code
-    - a flowchart
+3. [Code]
+  3.1 [Readme.md]
+    - [data query process]
+    - [sample code]
+    - [pseudo-code]
+    - [a flowchart]
   
-4. [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/edit/main/README.md#stats201_autumn2023_ps1)
+5. [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/edit/main/README.md#stats201_autumn2023_ps1)
 
 ---
 
