@@ -7,28 +7,29 @@ This  repository is for Problem Set 1 Pioneer Interdisciplinary Research on Mach
 ---
 
 ## Content
-1. [Literature]
+1. [Literature](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature)
    
-  1.1 [Readme.md]
-    - [literature review]
-    - [a research idea draft]
+  1.1 [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature#readme)
+    - [literature review](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature#11)
+    - [a research idea draft](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature#12)
    
-3. [Data]
+3. [Data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data)
    
-  2.1 [Readme.md]
-    - [data description]
-    - [a flowchart]
-  2.2 [data dictionary]
-  2.3 [sample data]
+  2.1 [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data#readme)
+    - [data description](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data#description)
+    - [a flowchart](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data#flowchart0
+  2.2 [data dictionary](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/data/DataDictionary.md#data-dictionary-for-your-dataset-name)
+  2.3 [sample data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/data/global_data_on_sustainable_energy.csv)
 
 3. [Code]
+   
   3.1 [Readme.md]
     - [data query process]
     - [sample code]
     - [pseudo-code]
     - [a flowchart]
   
-5. [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/edit/main/README.md#stats201_autumn2023_ps1)
+4. [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/edit/main/README.md#stats201_autumn2023_ps1)
 
 ---
 
