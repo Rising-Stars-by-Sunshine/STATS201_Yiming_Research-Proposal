@@ -2,19 +2,18 @@
 
 Title: Indicator Analysis of Global Sustainable Energy and its future trends.
 
-This  repository is for Problem Set 1 Pioneer Interdisciplinary Research on Machine Learning for Social Science in Stats 201. 
+This repository is for Problem Set 2: Machine Learning for Explanation, Prediction, and Causal Inference.
 
 I will delve in to the energy field: 
     
-- Establish a dataset for energy and its indicators: In this project, I collected data related to energy (such as access to electricity, Renewable energy share in the total final energy consumption, Primary energy consumption per capita, etc.), varying by different countries and years.
+- Establish a energy-related dataset: Such as access to electricity, Renewable energy share in the total final energy consumption, Primary energy consumption per capita, etc., varying by different countries and years.
+- Explore the relations among indicators: by applying tools such as Correlation Heatmap
+- Other treatmants: by causal inference
+- Predict future energy consumption trend: by comparing three different prediction models (linear Regression, Random Forest, Gradient Boosting Regressor)
 
-- Explore the relations among indicators: I will apply tools such as Correlation Heatmap
-    
-- Predict future energy usage, aid planning, and track SDG 7 progress: by comparing three different prediction models (linear Regression, Random Forest, Gradient Boosting Regressor)
-   
-- Guide investors towards sustainable opportunities: if applicable, by causal inference
+My research is meaningful for global citizens to realize current situation, and be aware of the importance of sustainable energy. It might also be useful for policy-makers and associates investors to make decisions related to sustainable energy.
 
-This analysis is meaningful for global citizens to realize current situation, and be aware of the importance of sustainable energy. It might also be useful for policy-makers and associates investors to make decisions related to sustainable energy.
+This analysis is shown clearly on Github, divided into 3 parts: Method, Data, and Code. See content below:
 
 ---
 
