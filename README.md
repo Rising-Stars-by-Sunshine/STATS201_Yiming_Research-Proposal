@@ -26,11 +26,11 @@ This analysis is meaningful for global citizens to realize current situation, an
       - [Machine Learning Workflow](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/Method/Readme.md#12-the-machine-learning-workflow)
       - [A flowchart](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Method#method-flowchart)
    
-3. [Data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data)
+2. [Data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data)
    
      2.1 [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data#readme)
       - [data description](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data#description)
-      - [a flowchart](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data#flowchart0
+      - [A flowchart](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data#flowchart)
   
      2.2 [data dictionary](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/data/DataDictionary.md#data-dictionary-for-your-dataset-name)
   
