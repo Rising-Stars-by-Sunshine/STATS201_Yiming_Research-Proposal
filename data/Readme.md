@@ -15,6 +15,7 @@ I also wrote a code to scrape data for the EIA website, including gas consumptio
 |Afghanistan|	2003|	14.738506	|9.5|	8.09|	25970000	|36.66|	0.31|	0	|0.63|	67.02128|	229.96822|	1.4|	1220.000029|	|	8.832277813	|190.6838143|	60	|652230|	33.93911	|67.709953|
 |Afghanistan	|2004|	20.064968	|10.9|	7.75	||	44.24|	0.33|	0	|0.56|	62.92135	|204.23125	|1.2|	1029.999971||		1.414117981|	211.3820742|	60|	652230	|33.93911|	67.709953|
 
+It is apparent to find that there exist null data, which should be cleaned before analysis.
 
 See Data Dictionary in [DataDictionary.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/data/DataDictionary.md#data-dictionary-for-your-dataset-name)
 
