@@ -1,4 +1,4 @@
-# Data Dictionary for [Your Dataset Name]
+# Data Dictionary for [Global Data on Sustainable Energy]
 
 | Variable Name | Description | Type | Range | Units | Frequency | Additional Notes |
 |--------|--------------|------|-------|---------|-----------|--------|
