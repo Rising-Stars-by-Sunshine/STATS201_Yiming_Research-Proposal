@@ -19,11 +19,12 @@ This analysis is meaningful for global citizens to realize current situation, an
 ---
 
 ## Content
-1. [Method](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature)
+1. [Method](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Method)
    
-     1.1 [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature#readme)
-      - [literature review](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature#11)
-      - [a research idea draft](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature#12)
+     1.1 [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Method#readme)
+      - [the Prediction Problem](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/Method/Readme.md#11-the-prediction-problem)
+      - [Machine Learning Workflow](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/Method/Readme.md#12-the-machine-learning-workflow)
+      - [A flowchart](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Method#method-flowchart)
    
 3. [Data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/data)
    
