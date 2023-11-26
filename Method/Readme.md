@@ -55,9 +55,9 @@ The results will be shown by their Mean Squared Error and R-squared, in order to
 2. Iterative Improvement:
    
 - Ongoing Feature Evaluation:
-Periodically assess the relevance of your selected features in relation to the target variable "Primary energy consumption per capita (kWh/person)." Remove or replace features that do not contribute significantly to the model's predictive accuracy.
+Periodically assess the relevance of my selected features in relation to the target variable "Primary energy consumption per capita (kWh/person)." Remove or replace features that do not contribute significantly to the model's predictive accuracy.
 - Algorithm Fine-tuning: 
-Concentrate on optimizing the hyperparameters and configurations specific to the Random Forest Regressor, Linear Regression, and Gradient Boosting Regressor.
+Optimize the hyperparameters and configurations specific to the Random Forest Regressor, Linear Regression, and Gradient Boosting Regressor.
 - Stability Assessment: 
 Implement cross-validation techniques suitable for time series data to ensure stability and reliability. 
 
@@ -66,4 +66,7 @@ Implement cross-validation techniques suitable for time series data to ensure st
 [1] Bettarelli, Luca, Davide Furceri, Pietro Pizzuto, and Nadia Shakoor. 2023. "Environmental Policies and Innovation in Renewable Energy." International Monetary Fund. September 1. https://www.imf.org/en/Publications/WP/Issues/2023/09/01/Environmental-Policies-and-Innovation-in-Renewable-Energy-538759.
 
 [2] Folk, Emily. “What the Future of Renewable Energy Looks Like.” Earth.Org, April 3, 2023. https://earth.org/the-growth-of-renewable-energy-what-does-the-future-hold/. 
+
+## Method Flowchart
+![image](Method.png)
 
