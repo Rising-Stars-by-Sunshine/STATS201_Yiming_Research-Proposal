@@ -1,4 +1,4 @@
-# STATS201_Autumn2023_PS1
+# STATS201_Autumn2023_PS2
 
 Title: Indicator Analysis of Global Sustainable Energy and its future trends.
 
