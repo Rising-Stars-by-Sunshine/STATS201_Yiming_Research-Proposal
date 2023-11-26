@@ -3,14 +3,12 @@
 1.	 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy, which is an open data source sorted by Ansh Tanwar. 
 2.	 New data for 2021-2022 from the World Bank https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators
 
-  Additionally, there is also a data query code, which is used for scraping data on the EIA website, including gas consumption and prices in California, USA. As for the process, I first asked ChatGPT to write a general query code for me. And then, I made up the specific headers and API URL; dealt with the OSError, which refers to the proxy problem. The code and pseudo-code are as shown below.
- 
-  The last sample code might be potentially applied, feel free to check if you are interested!!
+  Additionally, there is also a data query code for the Weibo platform, which is all written by myself. This program crawls posts from the social media platform we want by keyword and time period, including the content of the post, user name, when it was posted, where it was posted, and so on. See the code below.
 
 
 ### Code
 Two Ways to access it:
-1. See ipynb code uploaded to Github [here]().
+1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/code/data%20query).
 2. Linke for code in CoLab: https://colab.research.google.com/drive/1GVRQS_lPPvG4PGDtL9XREuSXiEv3eQit?usp=sharing 
 
 ###  pseudo-code
@@ -45,6 +43,6 @@ When the script is run:
 ```
 
 ### flowchart
-![image](DataQuery.png)
+![image](DataQueryCode.png)
 
 
