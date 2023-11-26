@@ -26,11 +26,11 @@ First of all, by common sense, we know that if citizens have easier or more acce
 Additionally, a study suggests that CCPs increase green patents from 2000 to 2021 (Bettarelli et al., 2023). This indicates that policies can indeed have a significant impact on advancing renewable energy technologies and, by extension, their share in the total energy mix.
 Lastly, according to the IEA, the share of renewable energy resources is expected to reach 30% by 2024, which is a larger proportion compared to that of today (Emily, 2023). It is a strong proof of my hypothesis.
 
-### Machine Learning Algorithm Selection:
+3. Machine Learning Algorithm Selection:
 
-1. For the causal inference part, I will apply RDD. RDd is particularly suitable for evaluating the causal impact of policy launching where there is a clear cut-off for receiving the treatment. Also, RDD can be particularly insightful as the policy’s implementation varied significantly across different regions or at different times.
+For the causal inference part, I will apply RDD. RDd is particularly suitable for evaluating the causal impact of policy launching where there is a clear cut-off for receiving the treatment. Also, RDD can be particularly insightful as the policy’s implementation varied significantly across different regions or at different times.
 
-2. For the prediction part, I would like to employ three different regression models for prediction: Random Forest Regressor, Linear Regression, and Gradient Boosting Regressor. Random Forest Regressor is chosen for its ability to handle non-linear relationships, Linear Regression for simplicity and interpretability, and Gradient Boosting Regressor for its high accuracy in complex datasets. Each model has its unique strengths, which I will explore and compare, and finally find the best one to fit. 
+For the prediction part, I would like to employ three different regression models for prediction: Random Forest Regressor, Linear Regression, and Gradient Boosting Regressor. Random Forest Regressor is chosen for its ability to handle non-linear relationships, Linear Regression for simplicity and interpretability, and Gradient Boosting Regressor for its high accuracy in complex datasets. Each model has its unique strengths, which I will explore and compare, and finally find the best one to fit. 
 
 ## 1.2. The Machine Learning Workflow 
 ### Model Development: 
