@@ -3,7 +3,7 @@ This dataset is mainly queried from Kaggle (https://www.kaggle.com/datasets/ansh
 
 Considering the completeness and real-time nature of the data, I downloaded new data for 2021-2022 from the World Bank (https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators).
 
-I also wrote a code to scrape data for the EIA website, including gas consumption and prices in California, USA, because the data was downloaded directly from the website. You'll see it in the code.
+I also wrote a code to scrape data from Weibo, the data will include post texts, posting time, location, etc.. It will be applied in the causal inference part, which can indicate public feelings on policy launching.
 
 ## Sample Data
 
@@ -20,4 +20,4 @@ It is apparent to find that there exist null data, which should be cleaned befor
 See Data Dictionary in [DataDictionary.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/data/DataDictionary.md#data-dictionary-for-your-dataset-name)
 
 ## flowchart
-![image](Data.png)
+![image](DataQuery.png)
