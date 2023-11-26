@@ -10,7 +10,7 @@ I will delve in to the energy field:
 
 - Explore the relations among indicators: I will apply tools such as Correlation Heatmap
     
-- Predict future energy usage, aid planning, and track SDG 7 progress: by comparing three different prediction models (linear Regression, Random Forest, Gradient)
+- Predict future energy usage, aid planning, and track SDG 7 progress: by comparing three different prediction models (linear Regression, Random Forest, Gradient Boosting Regressor)
    
 - Guide investors towards sustainable opportunities: if applicable, by causal inference
 
@@ -19,7 +19,7 @@ This analysis is meaningful for global citizens to realize current situation, an
 ---
 
 ## Content
-1. [Literature](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature)
+1. [Method](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature)
    
      1.1 [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature#readme)
       - [literature review](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/Literature#11)
