@@ -53,6 +53,6 @@ When the script is run:
 ### Code
 
 Two Ways to access it:
-1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/code/data%20analysis/Data%20Analysis.ipynb).
+1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/code/data%20analysis/Data_Analysis.ipynb).
 
 2. Link for code in CoLab: https://colab.research.google.com/drive/1EiOV6f8YtB9a-EhkOMJPLavm6NkIdkfg?usp=sharing
