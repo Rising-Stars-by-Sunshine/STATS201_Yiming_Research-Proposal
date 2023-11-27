@@ -1,4 +1,4 @@
-# Data Querying
+## Data Querying
   The main part of the data was directly downloaded from
 1.	 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy, which is an open data source sorted by Ansh Tanwar. 
 2.	 New data for 2021-2022 from the World Bank https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators
