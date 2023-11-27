@@ -11,7 +11,7 @@ Data section includes data query and data analysis.
 ### Code
 Two Ways to access it:
 1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/code/data%20query).
-2. Linke for code in CoLab: https://colab.research.google.com/drive/1GVRQS_lPPvG4PGDtL9XREuSXiEv3eQit?usp=sharing 
+2. Link for code in CoLab: https://colab.research.google.com/drive/1GVRQS_lPPvG4PGDtL9XREuSXiEv3eQit?usp=sharing 
 
 ###  pseudo-code
 ```
@@ -49,7 +49,10 @@ When the script is run:
 
 
 ## Data Analysis
-One Way to access it:
+
+### Code
+
+Two Ways to access it:
 1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/code/data%20analysis/Data%20Analysis.ipynb).
 
-
+2. Link for code in CoLab: https://colab.research.google.com/drive/1EiOV6f8YtB9a-EhkOMJPLavm6NkIdkfg?usp=sharing
