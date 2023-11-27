@@ -1,3 +1,5 @@
+Data section includes data query and data analysis.
+
 ## Data Querying
   The main part of the data was directly downloaded from
 1.	 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy, which is an open data source sorted by Ansh Tanwar. 
