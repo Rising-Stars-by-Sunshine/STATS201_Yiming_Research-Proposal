@@ -45,7 +45,8 @@ When the script is run:
 ### flowchart
 ![image](DataQueryCode.png)
 
-## Data AnalysisO
+
+## Data Analysis
 One Way to access it:
 1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/code/data%20analysis).
 
