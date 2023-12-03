@@ -39,9 +39,7 @@ This analysis is shown clearly on Github, divided into 3 parts: Method, Data, an
    
      3.1 [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/blob/main/code/Readme.md)
       - [data query process](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/code#data-querying)
-      - [sample code](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/code#code)
-      - [pseudo-code](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/code#pseudo-code)
-      - [a flowchart](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/code#flowchart)
+      - [data analysis](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_Research-Proposal/blob/main/code/Readme.md#process)
   
 4. [Readme.md](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/edit/main/README.md#stats201_autumn2023_ps1)
 
