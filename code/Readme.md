@@ -50,6 +50,23 @@ When the script is run:
 
 ## Data Analysis
 
+### Process:
+1. Data Preparation
+
+2. CO2 Emission Situation 
+
+3. Classification: by Region
+
+4. Indicator Correlation
+- Animation on a World map
+- Heatmap
+- Scatterplot
+
+5. Prediction
+- Linear Regression
+- Random Forest
+- Gradient Boosting
+
 ### Code
 
 Two Ways to access it:
