@@ -1,10 +1,8 @@
-# STATS201_Autumn2023_PS2
+# STATS201_Autumn2023_Research Proposal
 
 Title: Indicator Analysis of Global Sustainable Energy and its future trends.
 
-This repository is for Problem Set 2: Machine Learning for Explanation, Prediction, and Causal Inference.
-
-I will delve in to the energy field: 
+This repository is for final project. I will delve in to the energy field: 
     
 - Establish a energy-related dataset: Such as access to electricity, Renewable energy share in the total final energy consumption, Primary energy consumption per capita, etc., varying by different countries and years.
 - Explore the relations among indicators: by applying tools such as Correlation Heatmap
